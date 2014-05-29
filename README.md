@@ -1,0 +1,4 @@
+trymaps
+=======
+
+cartodb trial example
